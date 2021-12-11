@@ -1,0 +1,13 @@
+
+vim i title
+description
+project
+components
+build version
+severity
+priority
+status
+author
+assignment
+environment
+application data
